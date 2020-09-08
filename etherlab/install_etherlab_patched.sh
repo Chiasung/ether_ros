@@ -15,4 +15,4 @@ cd ethercat-1.5.2-merc
 # apply the patches
 hg qpush -a
 cd ..; make ethercatMasterInstallWithAutoStart
-rm -rf ethercat-1.5.2-merc
+# rm -rf ethercat-1.5.2-merc
